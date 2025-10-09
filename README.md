@@ -1,4 +1,4 @@
-# 🛸 RF Funkmodul Deluxe – Rettet die 433 MHz Welt! 🛸
+# 🛸 RF Funkmodul Deluxe – Rettet die 433 MHz Welt!
 
 > **Achtung!** ⚠️  
 > Dieses Projekt ist so **wichtig**, dass es das Gleichgewicht des Universums beeinflusst.  
